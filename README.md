@@ -1,5 +1,6 @@
-Make sure you have uv tool to run this,
-make a .env file
-Store you Gemini api in .env file as GOOGLE_API_KEY
+# AI-Driven Web Automation for SaaS User Management
 
-Use uv run scraper.py to run the code
+This project utilizes large language models (Ollama/Gemini) to automate web interactions and manage SaaS user provisioning. 
+
+## Quick Start
+Create a `.env` file with `GOOGLE_API_KEY` and run `uv run scraper.py`.
